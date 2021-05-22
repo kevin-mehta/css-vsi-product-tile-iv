@@ -46,6 +46,7 @@
 
 .ba-tile--wrapper {
   display: flex;
+  padding: 15px 35px;
 }
 .ba-tile--wrapper .ba-tile--col {
   display: flex;
@@ -56,9 +57,17 @@
   flex-direction: row;
 }
 .ba-tile--wrapper .ba-tile--main {
+  border: 5px solid #e4e4e4;
+  width: 100%;
 }
 .ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo {
+  padding: 18px 0;
 }
+.ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo .ba-tile--sale {
+}
+.ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo .ba-tile--lo {
+}
+
 .ba-tile--wrapper .ba-tile--main .ba-tile--prod-details {
 }
 
