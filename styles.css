@@ -422,7 +422,8 @@
 @media screen and (max-width: 767px) {
   .ba-tile--wrapper .ba-tile--main .ba-tile--prod-details {
     flex-direction: column;
-    width: 100%;
+    justify-content: flex-start;
+    padding: 20px 13px 13px;
   }
   .ba-tile--wrapper
     .ba-tile--main
