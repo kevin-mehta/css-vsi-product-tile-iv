@@ -111,6 +111,97 @@
 .ba-tile--wrapper
   .ba-tile--main
   .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row {
+  width: 100%;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-image {
+  width: 26%;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-image
+  .ba-tile--prod-image-graphic {
+  max-height: 100%;
+  max-width: 100%;
+  vertical-align: top;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc {
+  width: 74%;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc
+  .ba-tile--prod-brand {
+  margin-bottom: 12px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc
+  .ba-tile--prod-brand
+  .ba-tile--prod-brand-text {
+  font-family: corisanderegular;
+  font-size: 12px;
+  line-height: 12px;
+  color: #333333;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc
+  .ba-tile--prod-name {
+  margin-bottom: 12px;
+  width: 95%;
+  display: block;
+  max-width: 100%;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc
+  .ba-tile--prod-name
+  .ba-tile--prod-name-para {
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-image-desc
+  .ba-tile--prod-image-desc-row
+  .ba-tile--prod-desc
+  .ba-tile--prod-name
+  .ba-tile--prod-name-para
+  .ba-tile--prod-name-para-text {
+  font-family: corisandebold;
+  font-size: 16px;
+  line-height: 22px;
+  color: #012269;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
   .ba-tile--prod-qty-price {
   width: 19%;
 }
