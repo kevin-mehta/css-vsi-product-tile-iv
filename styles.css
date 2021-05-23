@@ -149,7 +149,7 @@
   .ba-tile--prod-image-desc-row
   .ba-tile--prod-desc
   .ba-tile--prod-brand {
-  margin-bottom: 12px;
+  /* margin-bottom: 12px; */
 }
 .ba-tile--wrapper
   .ba-tile--main
@@ -172,7 +172,7 @@
   .ba-tile--prod-desc
   .ba-tile--prod-name {
   margin-bottom: 12px;
-  width: 95%;
+  width: 93%;
   display: block;
   max-width: 100%;
 }
