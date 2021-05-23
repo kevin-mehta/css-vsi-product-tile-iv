@@ -61,13 +61,42 @@
   width: 100%;
 }
 .ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo {
-  padding: 18px 0;
+  padding: 18px 25px 18px 0;
+  justify-content: space-between;
 }
 .ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo .ba-tile--sale {
 }
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--sale-lo
+  .ba-tile--sale
+  .ba-tile--sale-text {
+  margin-left: 10px;
+  font-family: corisandebold;
+  font-size: 13px;
+  line-height: 15px;
+  color: #333333;
+}
 .ba-tile--wrapper .ba-tile--main .ba-tile--sale-lo .ba-tile--lo {
 }
-
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--sale-lo
+  .ba-tile--lo
+  .ba-tile--lo-text {
+  font-family: corisanderegular;
+  font-size: 14px;
+  line-height: 17px;
+  color: #333333;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--sale-lo
+  .ba-tile--lo
+  .ba-tile--lo-text
+  .ba-tile--lo-date {
+  font-family: corisandebold;
+}
 .ba-tile--wrapper .ba-tile--main .ba-tile--prod-details {
 }
 
