@@ -211,6 +211,91 @@
   .ba-tile--prod-availability {
   width: 14%;
 }
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-avail {
+  margin-bottom: 13px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-avail
+  .ba-tile--prod-avail-text {
+  font-family: corisanderegular;
+  font-size: 14px;
+  line-height: 16px;
+  color: #333333;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-dtc {
+  margin-bottom: 10px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-dtc
+  .ba-tile--prod-dtc-icon {
+  background: url(https://qa1.vitaminshoppe.com/images/close-icon.png) center
+    no-repeat;
+  top: 1px;
+  left: 1px;
+  width: 14px;
+  height: 14px;
+  position: relative;
+  opacity: 1;
+  margin-right: 4px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-dtc
+  .ba-tile--prod-dtc-text {
+  font-family: corisanderegular;
+  font-size: 14px;
+  line-height: 16px;
+  color: #333333;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-bops {
+  margin-bottom: 10px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-bops
+  .ba-tile--prod-bops-icon {
+  background: url(https://qa1.vitaminshoppe.com/images/check-change-store.svg)
+    center no-repeat;
+  width: 16px;
+  height: 13px;
+  position: relative;
+  opacity: 1;
+  top: 1px;
+  margin-right: 4px;
+}
+.ba-tile--wrapper
+  .ba-tile--main
+  .ba-tile--prod-details
+  .ba-tile--prod-availability
+  .ba-tile--prod-bops
+  .ba-tile--prod-bops-text {
+  font-family: corisanderegular;
+  font-size: 14px;
+  line-height: 16px;
+  color: #333333;
+}
 .ba-tile--wrapper .ba-tile--main .ba-tile--prod-details .ba-tile--prod-adp {
   width: 24%;
 }
