@@ -425,12 +425,29 @@
     justify-content: flex-start;
     padding: 20px 13px 13px;
   }
+
   .ba-tile--wrapper
     .ba-tile--main
     .ba-tile--prod-details
     .ba-tile--prod-image-desc {
     flex-direction: row;
     width: 100%;
+  }
+  .ba-tile--wrapper
+    .ba-tile--main
+    .ba-tile--prod-details
+    .ba-tile--prod-image-desc
+    .ba-tile--prod-image-desc-row
+    .ba-tile--prod-image {
+    width: 34%;
+  }
+  .ba-tile--wrapper
+    .ba-tile--main
+    .ba-tile--prod-details
+    .ba-tile--prod-image-desc
+    .ba-tile--prod-image-desc-row
+    .ba-tile--prod-desc {
+    width: 66%;
   }
   .ba-tile--wrapper
     .ba-tile--main
